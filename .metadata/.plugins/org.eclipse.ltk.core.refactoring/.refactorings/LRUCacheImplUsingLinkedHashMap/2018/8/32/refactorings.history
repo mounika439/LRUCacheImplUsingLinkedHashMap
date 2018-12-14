@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LRUCache.java&apos; to &apos;DeolitteCodingTest/src/com.deloitte.cache&apos;&#x0A;- Original project: &apos;LRUCacheImplUsingLinkedHashMap&apos;&#x0A;- Destination element: &apos;DeolitteCodingTest/src/com.deloitte.cache&apos;&#x0A;- Original element: &apos;com.infotech.cache.LRUCache.java&apos;" description="Copy compilation unit" destination="=DeolitteCodingTest/src&lt;com.deloitte.cache" element1="/src&lt;com.infotech.cache{LRUCache.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1533744196345" units="1" version="1.0"/>
+</session>
